@@ -1,0 +1,29 @@
+{
+  "users": [
+      { "id": 1, "username": "ainhoaMH", "name": "Ainhoa Martinez Horrillo", "edad": 21, "email": "ainhoaMartinez@gmail.com", "password": "123456"},
+      { "id": 2, "username": "martinRL", "name": "Martin Rodriguez Lopez", "edad": 32, "email": "martinRodriguez@gmail.com", "password": "123456"},
+      { "id": 3, "username": "jorgePH", "name": "Jorge Perez Horrillo", "edad": 22, "email": "jorgePerez@gmail.com", "password": "123456"},
+      { "id": 4, "username": "mariaMS", "name": "Maria Marquez Sanchez", "edad": 41, "email": "mariaMarquez@gmail.com", "password": "123456"},
+      { "id": 5, "username": "rosarioFD", "name": "Rosario Fernandez Diaz", "edad": 26, "email": "rosarioFernandez@gmail.com", "password": "123456"},
+      { "id": 6, "username": "claraOM", "name": "Clara Orozco Mendoza", "edad": 44, "email": "claraOrozco@gmail.com", "password": "123456"},
+      { "id": 7, "username": "robertoPG", "name": "Roberto Peral Gomez", "edad": 35, "email": "robertoPeral@gmail.com", "password": "123456"},
+      { "id": 8, "username": "joaquinAM", "name": "Joaquin Alvarez Montero", "edad": 38, "email": "joaquinAlvarez@gmail.com", "password": "123456"},
+      { "id": 9, "username": "julietaNP", "name": "Julieta Nevado Pedrosa", "edad": 52, "email": "julietaNevado@gmail.com", "password": "123456"},
+      { "id": 10, "username": "martaPS", "name": "Marta Perez Sanchez", "edad": 61, "email": "martaPerez@gmail.com", "password": "123456"}
+  ],
+  "books": [
+    { "postID": 1, "userID": 1, "rating": 9.5, "bookName": "Harry Potter", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0},
+    { "postID": 2, "userID": 2, "rating": 3.5, "bookName": "Luces de Bohemia", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 1},
+    { "postID": 3, "userID": 3, "rating": 6, "bookName": "Crimen y Castigo", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0},
+    { "postID": 4, "userID": 4, "rating": 8.5, "bookName": "Cumbres borrascosas", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0},
+    { "postID": 5, "userID": 5, "rating": 3.2, "bookName": "Las almas muertas", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 1},
+    { "postID": 6, "userID": 6, "rating": 7.8, "bookName": "Preludio a la fundacion", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0},
+    { "postID": 7, "userID": 7, "rating": 10, "bookName": "El Señor de los Anillos", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0},
+    { "postID": 8, "userID": 8, "rating": 4.5, "bookName": "Ella", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 1},
+    { "postID": 9, "userID": 9, "rating": 8.1, "bookName": "El codigo Da Vinci", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0},
+    { "postID": 10, "userID": 10, "rating": 9, "bookName": "Azabache", "author": "", "year": "yyyy", "commentary": "XXXX", "recommend": 0}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
