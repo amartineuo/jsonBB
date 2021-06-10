@@ -24,7 +24,7 @@
     { "postID": 10, "userID": 10, "rating": 9, "bookName": "Azabache", "author": "", "year": "yyyy", "commentary": "XXXX", "img": "https://www.penguinlibros.com/es/195780-large_default/harry-potter-y-la-piedra-filosofal-harry-potter-1.jpg", "recommend": 0}
   ],
   "favorites": [
-    { "id": 1, "userFav": 1, "bookFav": 1},
+    { "id": 1, "userFav": 1, "bookFav": 6},
     { "id": 2, "userFav": 2, "bookFav": 1},
     { "id": 3, "userFav": 3, "bookFav": 2},
     { "id": 4, "userFav": 4, "bookFav": 3},
